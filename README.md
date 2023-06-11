@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning bioelectricity
 - 💞️ I’m looking to collaborate on esp32 and remote device controller with very fast feedback over net
 - 📫 How to reach me ...
+- kadirerturk@gmail.com
+- @kadirerturk
 
 <!---
 erturkkadir/erturkkadir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
